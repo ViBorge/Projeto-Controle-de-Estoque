@@ -18,5 +18,7 @@ o Projeto Final de AED-II tinha as seguintes segras:
 O Projto foi feito em grupo
 ===========================
 Vinicius Borges de Souza
+
 Kalled Tauil
+
 Enrico Machado
